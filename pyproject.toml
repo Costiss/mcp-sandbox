@@ -1,0 +1,6 @@
+[project]
+version = "0.1.0"
+
+[tool.pyright]
+typeCheckingMode = "strict"
+pythonVersion = "3.13.3"
